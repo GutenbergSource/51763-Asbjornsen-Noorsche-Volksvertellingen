@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Noorsche Volksvertellingen</dc:title>
+      <dc:creator>Peter Christen Asbjørnsen (1812–1885)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2016-04-15</dc:publisher>
+      <dc:date>2016-04-15</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+Bewerking van Norske Huldre-eventyr og Folkesagn.
+Scans van dit boek zijn beschikbaar via de Noorse Nationale Bibliotheek (copy 1).
+</dc:rights>
+      <dc:description>Een verzameling sprookjes van de beroemde Noorse schrijver en folklorist Peter Christen Asbjørnsen, in een vertaling uit 1875 (in dit boekje nog volgens de oude Noorse spelling Asbjörnsen geheten).</dc:description>
+      <dc:identifier>pg:51763</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
